@@ -9,3 +9,12 @@
 [Société Française des Sciences de l'Information et de la Communication](http://www.sfsic.org/)
 
 [Agence Bibliographique de l'Enseignement Supérieur - SUDOC](http://www.abes.fr/Sudoc/Sudoc-public)
+
+[netvibes - テレビ](http://www.netvibes.com/privatepage/1#%E3%83%86%E3%83%AC%E3%83%93_actualites)
+
+["WorldWideScience.org is a global science gateway comprised of national and international scientific databases and portals."](http://worldwidescience.org/wws/result-list/fullRecord:%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E7%95%AA%E7%B5%84/preferredLanguage:ja/#ResultList=0|0|_|RANK|0)<br>
+  ["Variété en replay"] (http://www.tv-replay.fr/tags/variete/) <br>
+
+[Euromonitor International](http://www.euromonitor.com/) <br>
+
+[Zotero](http://www.zotero.org/)
