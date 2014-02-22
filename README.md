@@ -18,4 +18,6 @@
 
 [Euromonitor International](http://www.euromonitor.com/)
 
+[Les aspects concrets de la thèse](http://act.hypotheses.org/)
+
 [Zotero](http://www.zotero.org/)
