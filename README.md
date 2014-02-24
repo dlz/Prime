@@ -21,3 +21,5 @@
 [Les aspects concrets de la thèse](http://act.hypotheses.org/)
 
 [Zotero](http://www.zotero.org/)
+
+[ISIDORE - plateforme de recherche permettant l'accès aux données numériques des sciences humaines et sociales (SHS)](http://www.rechercheisidore.fr/index)
