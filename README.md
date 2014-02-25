@@ -2,6 +2,8 @@
 
 [The World Wide Web Consortium (W3C)](http://www.w3.org/)
 
+[Creative Commons - Choose a License](http://creativecommons.org/choose/)
+
 [CNRS - Listes de diffusion Deligne](https://listes.services.cnrs.fr/wws)
 
 [Afeccav - livres, colloques, congrès, journées doctorales, appels à communication](http://www.afeccav.org/)
@@ -23,3 +25,5 @@
 [Zotero](http://www.zotero.org/)
 
 [ISIDORE - plateforme de recherche permettant l'accès aux données numériques des sciences humaines et sociales (SHS)](http://www.rechercheisidore.fr/index)
+
+[Compilatio - logiciel de la prévention du plagiat](http://compilatio.net/)
