@@ -27,3 +27,5 @@
 [ISIDORE - plateforme de recherche permettant l'accès aux données numériques des sciences humaines et sociales (SHS)](http://www.rechercheisidore.fr/index)
 
 [Compilatio - logiciel de la prévention du plagiat](http://compilatio.net/)
+
+[イカ天 世界のネットTVガイド](http://ikaten.squidtv.net/)
