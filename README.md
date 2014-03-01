@@ -29,3 +29,5 @@
 [Compilatio - logiciel de la prévention du plagiat](http://compilatio.net/)
 
 [イカ天 世界のネットTVガイド](http://ikaten.squidtv.net/)
+
+[Communication and Information Network Association of Japan - CIAJ](http://www.ciaj.or.jp/jp/)
